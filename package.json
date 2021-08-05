@@ -10,8 +10,7 @@
     "build:prod": "ng build ng-image-slider --configuration=production --prod",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e",
-     "prepare": "npm run build"
+    "e2e": "ng e2e"
   },
   "files": [
     "dist/ng-image-slider"
